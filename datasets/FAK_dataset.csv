@@ -1,0 +1,4 @@
+canonical_smiles,molecule_chembl_id,standard_units,standard_value,units,value
+O=C(CSc1nnc(COc2ccc3c(c2)CCCC3)o1)Nc1nc2ccc(F)cc2s1,CHEMBL4170467,nM,117500.0,uM,117.5
+COc1ccc2nc(NC(=O)CSc3nnc(COc4ccc5c(c4)CCCC5)o3)sc2c1,CHEMBL4163608,nM,19500.0,uM,19.5
+O=C(CSc1nnc(COc2ccc3c(c2)CCCC3)o1)Nc1ncc([N+](=O)[O-])s1,CHEMBL4168160,nM,105000.0,uM,105.0

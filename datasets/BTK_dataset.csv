@@ -1,0 +1,2 @@
+canonical_smiles,molecule_chembl_id,standard_units,standard_value,units,value
+Cc1nn(C(C)C)c(C)c1-c1nc2c(-c3ccc4c(c3)CCCC[C@H]4NC(=O)c3nc(C(C)(C)C)no3)ccnc2[nH]1,CHEMBL4877846,nM,11.0,nM,11.0
