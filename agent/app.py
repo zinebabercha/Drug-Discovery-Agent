@@ -4,9 +4,9 @@ from state import AgentState
 from graph import app
 from tool_agent import sanitize_dict
 
-st.set_page_config(page_title="Drug Discovery Agent", page_icon="🧬", layout="wide")
+st.set_page_config(page_title="Pharmalyn - Drug Discovery Agent", page_icon="🧬", layout="wide")
 
-st.title("🧬 Drug Discovery QSAR Agent")
+st.title("🧬 Pharmalyn Drug Discovery Agent")
 st.markdown("Analyze molecules for target inhibition with QSAR, ADMET, and literature insights")
 
 # Sidebar for input
